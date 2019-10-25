@@ -1,6 +1,25 @@
 # CSharp8CheatSheet
 C# 8 Cheat Sheet with code example
 
+Updated according to the Microsoft documentation:
+https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-8
+
+1) Default interface methods
+2) Nullable reference types
+3) Pattern matching enhancements 
+4) Asynchronous streams
+5) Using declarations
+6) Enhancement of interpolated verbatim strings
+7) Null-coalescing assignment
+8) Static local functions
+9) Indices and ranges
+10) Unmanaged constructed types
+11) Readonly-Member
+12) Stackalloc in nested expressions
+13) Disposable ref structs
+
+________________________________________________________________________________________________________________________
+
 
  
 I will keep updating the cheat sheet. Please follow me and start it.
